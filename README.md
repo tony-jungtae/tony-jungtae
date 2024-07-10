@@ -44,7 +44,7 @@
 
 ## 🚀 프로젝트
 
-### [여행 SNS]([https://github.com/johndoe/ecommerce-platform](https://github.com/tony-jungtae/project_SNSMaster))
+### [여행 SNS]([[https://github.com/johndoe/ecommerce-platform](https://github.com/tony-jungtae/project_SNSMaster)])
 SNS 프로젝트 
 
 ### [프로젝트 2: Blog Application](https://github.com/johndoe/blog-application)
