@@ -6,9 +6,9 @@
 
 - **이름**: 김정태
 - **역할**: 풀스택 개발자
-- **위치**: 서울, 대한민국
+- **위치**: 수원, 대한민국
 - **이메일**: kimtony58@naver.com
-- **LinkedIn**: [김정태](https://www.linkedin.com/in/johndoe/)
+- **배포한 사이트**: [김정태](https://www.linkedin.com/in/johndoe/)
 - **포트폴리오**: [johndoe.dev](https://johndoe.dev)
 
 ## 🔧 기술 및 도구
@@ -36,16 +36,11 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🌱 현재 배우고 있는 것
+## 🌱 현재 공부하고 있는 것
 
 - 고급 클라우드 아키텍처
 - Spring Boot를 사용한 마이크로서비스
 - React.js 및 Vue.js와 같은 프론트엔드 프레임워크
-
-## 📈 GitHub 통계
-
-![김정태's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimtony58&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtony58&layout=compact&theme=radical)
 
 ## 🚀 프로젝트
 
