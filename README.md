@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-- **Name**: 김정태
+- **이름**: 김정태
 - **Role**: 풀스택
 - **Location**: San Francisco, CA
 - **Email**: kimtony58@naver.com
