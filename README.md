@@ -1,6 +1,6 @@
 # 🌟 김정태' GitHub 🌟
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and solve problems. Here's a bit about me and what I do:
+저의 GitHub 프로필에 오신 것을 환영합니다! 저는 새로운 기술을 탐구하고 문제를 해결하는 것을 좋아하는 열정적인 개발자입니다. 저와 제가 하는 일에 대한 간략한 소개는 다음과 같습니다.
 
 ## 👨‍💻 About Me
 
