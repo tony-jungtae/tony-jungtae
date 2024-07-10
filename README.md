@@ -5,11 +5,11 @@
 ## 👨‍💻 About Me
 
 - **이름**: 김정태
-- **Role**: 풀스택
-- **Location**: San Francisco, CA
+- **역할**: 풀스택
+- **위치**: 대한민국 수원
 - **Email**: kimtony58@naver.com
-- **LinkedIn**: [내가 만든 SNS](https://34.22.109.125:8080/snsMaster)
-- **Portfolio**: [johndoe.dev](https://johndoe.dev)
+- **메인 프로젝트**: [내가 만든 SNS](https://34.22.109.125:8080/snsMaster)
+- **포토폴리오**: [johndoe.dev](https://johndoe.dev)
 
 ## 🔧 Technologies & Tools
 
@@ -44,7 +44,7 @@
 
 ## 📈 GitHub Stats
 
-![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+![김정태 GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical)
 
 ## 🚀 Projects
