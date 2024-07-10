@@ -6,7 +6,7 @@
 
 - **이름**: 김정태
 - **역할**: 풀스택 개발자
-- **위치**: 수원, 대한민국
+- **위치**: 서울, 대한민국
 - **이메일**: kimtony58@naver.com
 - **LinkedIn**: [김정태](https://www.linkedin.com/in/johndoe/)
 - **포트폴리오**: [johndoe.dev](https://johndoe.dev)
@@ -36,7 +36,7 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🌱 현재 공부하고 있는 것
+## 🌱 현재 배우고 있는 것
 
 - 고급 클라우드 아키텍처
 - Spring Boot를 사용한 마이크로서비스
@@ -65,4 +65,3 @@ WebSockets, Java, 그리고 Spring Boot를 사용한 실시간 채팅 애플리�
 ---
 
 ⭐️ From [김정태](https://github.com/kimtony58)
-
