@@ -44,8 +44,8 @@
 
 ## 🚀 프로젝트
 
-### [프로젝트 1: E-commerce Platform](https://github.com/johndoe/ecommerce-platform)
-Spring Boot와 React로 구축한 종단간 전자상거래 플랫폼.
+### [프로젝트 1: E-commerce Platform]([https://github.com/johndoe/ecommerce-platform](https://github.com/tony-jungtae/project_SNSMaster))
+SNS 프로젝트 
 
 ### [프로젝트 2: Blog Application](https://github.com/johndoe/blog-application)
 Java, Spring Boot, 그리고 Thymeleaf로 구축한 블로그 플랫폼.
