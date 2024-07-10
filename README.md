@@ -8,7 +8,7 @@
 - **Role**: 풀스택
 - **Location**: San Francisco, CA
 - **Email**: kimtony58@naver.com
-- **LinkedIn**: [John Doe](https://www.linkedin.com/in/johndoe/)
+- **LinkedIn**: [내가 만든 SNS](https://34.22.109.125:8080/snsMaster)
 - **Portfolio**: [johndoe.dev](https://johndoe.dev)
 
 ## 🔧 Technologies & Tools
