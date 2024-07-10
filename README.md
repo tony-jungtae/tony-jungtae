@@ -44,8 +44,8 @@
 
 ## 📈 GitHub Stats
 
-![김정태 GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical)
+![김정태 GitHub stats](https://github-readme-stats.vercel.app/api?username=김정태&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=김정태&layout=compact&theme=radical)
 
 ## 🚀 Projects
 
