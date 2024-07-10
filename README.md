@@ -1,13 +1,13 @@
-# 🌟 John Doe's GitHub 🌟
+# 🌟 김정태' GitHub 🌟
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and solve problems. Here's a bit about me and what I do:
 
 ## 👨‍💻 About Me
 
-- **Name**: John Doe
-- **Role**: Full-Stack Developer
+- **Name**: 김정태
+- **Role**: 풀스택
 - **Location**: San Francisco, CA
-- **Email**: john.doe@example.com
+- **Email**: kimtony58@naver.com
 - **LinkedIn**: [John Doe](https://www.linkedin.com/in/johndoe/)
 - **Portfolio**: [johndoe.dev](https://johndoe.dev)
 
