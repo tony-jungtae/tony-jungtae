@@ -44,13 +44,10 @@
 
 ## 🚀 프로젝트
 
-### [여행 SNS]([[https://github.com/johndoe/ecommerce-platform](https://github.com/tony-jungtae/project_SNSMaster)])
-SNS 프로젝트 
-
-### [프로젝트 2: Blog Application](https://github.com/johndoe/blog-application)
+### [프로젝트 1: 여행 SNS](https://github.com/johndoe/blog-application)
 Java, Spring Boot, 그리고 Thymeleaf로 구축한 블로그 플랫폼.
 
-### [프로젝트 3: Real-time Chat Application](https://github.com/johndoe/chat-application)
+### [프로젝트 2: 펫 분양 사이트](https://github.com/johndoe/chat-application)
 WebSockets, Java, 그리고 Spring Boot를 사용한 실시간 채팅 애플리케이션.
 
 ## 📫 연락 방법
