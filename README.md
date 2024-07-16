@@ -44,7 +44,7 @@
 
 ## 🚀 프로젝트
 
-### [프로젝트 1: 여행 SNS](https://github.com/johndoe/blog-application)
+### [프로젝트 1: 여행 SNS](https://github.com/tony-jungtae/project_SNSMaster))
 Java, Spring Boot, 그리고 Thymeleaf로 구축한 블로그 플랫폼.
 
 ### [프로젝트 2: 펫 분양 사이트](https://github.com/johndoe/chat-application)
