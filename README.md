@@ -8,7 +8,7 @@
 - **역할**: 풀스택 개발자
 - **위치**: 수원, 대한민국
 - **이메일**: kimtony58@naver.com
-- **배포한 사이트**: [김정태](https://www.linkedin.com/in/johndoe/)
+- **배포한 사이트**: [김정태]([https://www.linkedin.com/in/johndoe/](http://34.22.109.125:8080/snsMaster))
 - **포트폴리오**: [johndoe.dev](https://johndoe.dev)
 
 ## 🔧 기술 및 도구
