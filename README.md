@@ -9,7 +9,7 @@
 - **위치**: 수원, 대한민국
 - **이메일**: kimtony58@naver.com
 - **배포한 사이트**: [sns 사이트](http://34.22.109.125:8080/snsMaster)
-- **포트폴리오**: [jungtae.dev](https://www.notion.so/ae0f2b03052e43ee83254bb9014d792b))
+- **포트폴리오**: [jungtae.dev](https://www.notion.so/ae0f2b03052e43ee83254bb9014d792b)
 
 ## 🔧 기술 및 도구
 
@@ -51,9 +51,6 @@ Java, Spring Boot,html,CSS,javaScript 그리고 Thymeleaf로 구축한 블로그
 html,CSS,javascript 그리고 thymeleaf로 구축한 펫종합정보시스템 사이트   
 
 ## 📫 연락 방법
+010-5743-3727통해 연락주세요.
 
-[이메일](mailto:kimtony58@naver.com)통해 연락주세요.
 
----
-
-⭐️ From [김정태](https://github.com/kimtony58)
