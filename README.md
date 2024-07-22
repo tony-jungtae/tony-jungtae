@@ -9,7 +9,7 @@
 - **위치**: 수원, 대한민국
 - **이메일**: kimtony58@naver.com
 - **배포한 사이트**: [sns 사이트](http://34.22.109.125:8080/snsMaster)
-- **포트폴리오**: [jungtae.dev](https://www.notion.so/ae0f2b03052e43ee83254bb9014d792b)
+- **포트폴리오**: [jungtae.dev](https://bead-blossom-982.notion.site/ae0f2b03052e43ee83254bb9014d792b)
 
 ## 🔧 기술 및 도구
 
