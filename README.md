@@ -37,10 +37,9 @@
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🌱 현재 공부하고 있는 것
-
-- 고급 클라우드 아키텍처
-- Spring Boot를 사용한 마이크로서비스
-- React.js 및 Vue.js와 같은 프론트엔드 프레임워크
+- Spring Boot
+- React.js
+- node.js
 
 ## 🚀 프로젝트
 
