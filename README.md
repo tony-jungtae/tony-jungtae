@@ -37,8 +37,10 @@
 - 산업용 통신/제어 개념: RS-485 등(프로젝트 요구에 맞춰 적용)
 
 ### Libraries / Etc
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4.svg?style=for-the-badge&logo=opengl&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
+- **MFC / Win32**, **.NET WinForms (Metro UI)**
+- **OpenGL**(MFC 기반 3D/뷰어), **OpenCV**(이미지 처리/검사 보조)
 
 ### Infra / Tools
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
